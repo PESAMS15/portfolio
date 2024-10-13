@@ -22,7 +22,7 @@ const ContactLeft = () => {
           Phone: <span className="text-lightText">+2349045098857</span>
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
-          Email: <span className="text-lightText">pesams015@gmail@gmail.com</span>
+          Email: <span className="text-lightText">pesams015@gmail</span>
         </p>
       </div>
       <div className="flex flex-col gap-4">
@@ -32,7 +32,7 @@ const ContactLeft = () => {
               <a href="http://github.com/PESAMS15"><FaGithub /></a>
             </span>
             <span className="bannerIcon">
-              <a href="http://twitter.com/pesams15"><FaTwitter /></a>
+              <a href="http://twitter.com/pesams_15"><FaTwitter /></a>
             </span>
             <span className="bannerIcon">
               <a href="https://www.linkedin.com/in/persy-studioz-967368253/"><FaLinkedinIn /></a>
