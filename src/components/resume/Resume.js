@@ -13,7 +13,7 @@ const Resume = () => {
   return (
     <section id="resume" className="w-full justify-center  items-center py-20 border-b-[1px] border-b-black">
       <div className="flex justify-center items-center text-center">
-        <Title title="7+ YEARS OF EXPERIENCE" des="My Resume" />
+        <Title title="3+ YEARS OF EXPERIENCE" des="My Resume" />
       </div>
       <div>
         <ul className="w-full mx-auto justify-center gap-6 grid text-center grid-cols-1 md:grid-cols-2 xl:grid-cols-4">
