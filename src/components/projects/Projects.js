@@ -35,7 +35,7 @@ const Projects = () => {
           title="Ticket Booking Website"
           des="I created a website with the MERN stack that can be used to book for concert tickets for your favourite celebrities"
           src={projectThree}
-          site="https://axctickets.netlify.app/"
+          site="https://axc-tickets.vercel.app/"
           repo="axc-frontend"
         />
       
